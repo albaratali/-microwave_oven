@@ -1,6 +1,6 @@
 /*
  * File:   main.c
- * Author: faizan
+ * Author: albaratali
  *
  * Created on November 3, 2023, 6:47 PM
  */
